@@ -1,8 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Love Sandwiches - walkthrough project
 
-Welcome USER_NAME,
-
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+This is a project built followng step by step the relative project in the Code Institute course.
 
 ## Reminders
 
